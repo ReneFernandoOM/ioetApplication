@@ -56,7 +56,7 @@ OUTPUT:
 The amount to pay ASTRID is: 85 USD
 
 ## Solution
-In order to get the answered, I had to first figure out how would I check if the hours are inside a given interval. After solving that problem, I encounter another similar one: what happens if a person works between two different payment ranges? After solving this, it was much easier, since all the heavy lifting was already done.
+In order to solve the exercise, I had to first figure out how would I check if the hours are inside a given interval. After solving that problem, I encounter another similar problem: what happens if a person works between two different payment ranges? After solving this, it was much easier, since all the heavy lifting was already done.
 
 ## Run script
 Simply use `python main.py`
