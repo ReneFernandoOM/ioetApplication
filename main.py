@@ -6,5 +6,5 @@ if __name__ == '__main__':
         calculator.run()
     except ExpectedError as e:
         print(e)
-    # except Exception as e:
-    #     print(f"Unexpected error: {e}")
+    except Exception as e:
+        print(f"Unexpected error: {e}")
